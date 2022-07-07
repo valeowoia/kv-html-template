@@ -2,4 +2,4 @@
 
 ## Single page site template, what used on http://nekodex.ml
 
-Partially stolen from kvmrnn. Partially.
+Partially (but with love) stolen from kvmrnn. Partially.
