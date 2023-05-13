@@ -1,5 +1,5 @@
 # HTML Template
 
-## Single page site template, what used on http://nekodex.ml
+## Single page site template
 
 Partially (but with love) stolen from kvmrnn. Partially.
